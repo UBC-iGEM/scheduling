@@ -2,5 +2,5 @@
 -   [ ] Monday July 28th @ 18:00
 -   [v] Wednesday July 30th @ 18:00
 -   [ ] Wednesday July 30th @ 19:00
--   [ ] Friday Aug 1st @ 18:00
+-   [v] Friday Aug 1st @ 18:00
 -   [ ] Friday Aug 1st @ 19:00
