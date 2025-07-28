@@ -1,0 +1,16 @@
+- [ ] Monday July 28th @ 17:00
+- [ ] Monday July 28th @ 17:30
+- [ ] Monday July 28th @ 18:00
+- [ ] Monday July 28th @ 18:30
+- [ ] Wednesday July 30th @ 17:00
+- [ ] Wednesday July 30th @ 17:30
+- [ ] Wednesday July 30th @ 18:00
+- [ ] Wednesday July 30th @ 18:30
+- [ ] Wednesday July 30th @ 19:00
+- [ ] Wednesday July 30th @ 19:30
+- [ ] Friday Aug 1st @ 17:00
+- [ ] Friday Aug 1st @ 17:30
+- [ ] Friday Aug 1st @ 18:00
+- [ ] Friday Aug 1st @ 18:30
+- [ ] Friday Aug 1st @ 19:00
+- [ ] Friday Aug 1st @ 19:30
