@@ -10,7 +10,7 @@
 - [ ] Tuesday July 29th @ 19:30
 - [ ] Tuesday July 29th @ 20:00
 - [ ] Tuesday July 29th @ 20:30
-- [ ] Wednesday July 30th @ 17:30
+- [X] Wednesday July 30th @ 17:30
 - [ ] Wednesday July 30th @ 18:00
 - [ ] Wednesday July 30th @ 18:30
 - [ ] Wednesday July 30th @ 19:00
