@@ -3,7 +3,7 @@
 - [ ] Monday July 28th @ 18:00
 - [ ] Monday July 28th @ 18:30
 - [ ] Wednesday July 30th @ 17:00
-- [ ] Wednesday July 30th @ 17:30
+- [X] Wednesday July 30th @ 17:30
 - [X] Wednesday July 30th @ 18:00
 - [X] Wednesday July 30th @ 18:30
 - [ ] Wednesday July 30th @ 19:00
