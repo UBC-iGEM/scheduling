@@ -11,9 +11,6 @@
 - [ ] Tuesday July 29th @ 20:00
 - [ ] Tuesday July 29th @ 20:30
 - [X] Wednesday July 30th @ 17:30
-- [ ] Wednesday July 30th @ 18:00
-- [ ] Wednesday July 30th @ 18:30
-- [ ] Wednesday July 30th @ 19:00
 - [ ] Wednesday July 30th @ 19:30
 - [ ] Thursday July 31st @ 17:30
 - [ ] Thursday July 31st @ 18:00
@@ -22,8 +19,4 @@
 - [ ] Thursday July 31st @ 19:30
 - [ ] Thursday July 31st @ 20:00
 - [ ] Thursday July 31st @ 20:30
-- [ ] Friday Aug 1st @ 17:30
-- [ ] Friday Aug 1st @ 18:00
-- [ ] Friday Aug 1st @ 18:30
-- [ ] Friday Aug 1st @ 19:00
 - [ ] Friday Aug 1st @ 19:30
