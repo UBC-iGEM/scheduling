@@ -6,4 +6,4 @@
 - [ ] Friday Aug 1st @ 19:00
 - [ ] Wednesday Aug 6th @ 17:30
 - [ ] Wednesday Aug 6th @ 18:30
-- [ ] Wednesday Aug 6th @ 19:30
+- [v] Wednesday Aug 6th @ 19:30
