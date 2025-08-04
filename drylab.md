@@ -19,7 +19,7 @@
 - [ ] Wednesday Aug 6th @ 18:00
 - [ ] Wednesday Aug 6th @ 18:30
 - [ ] Wednesday Aug 6th @ 19:00
-- [ ] Wednesday Aug 6th @ 19:30
+- [X] Wednesday Aug 6th @ 19:30
 - [ ] Friday Aug 8th @ 17:00
 - [ ] Friday Aug 8th @ 17:30
 - [ ] Friday Aug 8th @ 18:00
